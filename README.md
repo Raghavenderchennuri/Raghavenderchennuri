@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python to enhance my Data Engineering skills
 - 💞️ I’m looking to collaborate on all the Data Engineering activities
 - 📫 How to reach me ...email me chennurirao01@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Raghav
 - ⚡ Fun fact: ...
 
 <!---
